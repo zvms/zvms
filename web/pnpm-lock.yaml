@@ -8,7 +8,7 @@ specifiers:
   '@mdi/font': ^7.1.96
   '@rushstack/eslint-patch': ^1.1.4
   '@types/crypto-js': ^4.1.1
-  '@types/jsdom': ^20.0.1
+  '@types/jsdom': ^21.0.0
   '@types/node': ^18.11.9
   '@types/nprogress': ^0.2.0
   '@vitejs/plugin-vue': ^4.0.0
@@ -61,7 +61,7 @@ devDependencies:
   '@commitlint/prompt-cli': 17.3.0
   '@rushstack/eslint-patch': 1.2.0
   '@types/crypto-js': 4.1.1
-  '@types/jsdom': 20.0.1
+  '@types/jsdom': 21.1.0
   '@types/node': 18.11.10
   '@types/nprogress': 0.2.0
   '@vitejs/plugin-vue': 4.0.0_vite@4.0.4+vue@3.2.45
@@ -948,8 +948,8 @@ packages:
     resolution: {integrity: sha512-WulqXMDUTYAXCjZnk6JtIHPigp55cVtDgDrO2gHRwhyJto21+1zbVCtOYB2L1F9w4qCQ0rOGWBnBe0FNTiEJIQ==}
     dev: true
 
-  /@types/jsdom/20.0.1:
-    resolution: {integrity: sha512-d0r18sZPmMQr1eG35u12FZfhIXNrnsPU/g5wvRKCUf/tOGilKKwYMYGqh33BNR6ba+2gkHw1EUiHoN3mn7E5IQ==}
+  /@types/jsdom/21.1.0:
+    resolution: {integrity: sha512-leWreJOdnuIxq9Y70tBVm/bvTuh31DSlF/r4l7Cfi4uhVQqLHD0Q4v301GMisEMwwbMgF7ZKxuZ+Jbd4NcdmRw==}
     dependencies:
       '@types/node': 18.11.10
       '@types/tough-cookie': 4.0.2
